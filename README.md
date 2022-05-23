@@ -5,15 +5,5 @@
 
 Our goal is to promote Ruby and this great community, write about development in an accessible and intuitive way. 
 
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubylab-co&hide=html&layout=compact&theme=default" /></td>
-        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=rubylab-co&theme=default" /></td>
-    </tr>   
-  </table>
-</center>
-
-     
 
 
